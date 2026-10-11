@@ -12,6 +12,7 @@ namespace retry
         {
             cosole.writeline("hello arslan ");
             cosole.writeline("hello arslan after modify  ");
+            int a = 10 ;
         }
     }
 }
